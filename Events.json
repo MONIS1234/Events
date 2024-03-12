@@ -1,16 +1,16 @@
 [
-   {
-     "SI.NO":1,
-     "Name":"CLUB ACTIVITY INAUGRATION ",
-     "Date":"27-11-2021",
-     "Detail":"view detail"
-    },
-    {
-     "SI.NO":2,
-     "Name":"FIVE-DAY WORKSHOP ON WEBSITE DESIGN AND DEVELOPMENT ",
-     "Date":"14-12-2021 to 18-12-2021 ",
-     "Detail":"view detail"
-    }
+  {
+    "SI.NO": 1,
+    "Name": "CLUB ACTIVITY INAUGURATION",
+    "Date": "27-11-2021",
+    "Detail": "view detail",
+    "view detail":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e207cc0d79614b9aa266c27966012151.pdf"
+  },
+  {
+    "SI.NO": 2,
+    "Name": "FIVE-DAY WORKSHOP ON WEBSITE DESIGN AND DEVELOPMENT",
+    "Date": "14-12-2021 to 18-12-2021",
+    "Detail": "view detail",
+    "view detail":"https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_b3d974b661b5443f9b8b1729d483c3ff.pdf"
+  }
 ]
-
- 
